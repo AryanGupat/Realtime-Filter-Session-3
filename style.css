@@ -1,0 +1,21 @@
+body 
+{
+    background-image: url("background.jpg");
+}
+#Head
+{
+    margin-top: 50px;
+    width: 150px;
+    height: 50px;
+    font-size: large;
+}
+#M_B
+{
+    margin-top: 25px;
+}
+canvas
+{
+border-color: black;
+border-width: 3px;
+border-style: dashed;
+}
